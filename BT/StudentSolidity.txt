@@ -41,6 +41,6 @@ contract StudentData {
 
 inputs :-
 
-1, "Atharva", "Wankar", [80, 90]
-2, "Yashashree", "Mahajan", [93, 74]
+1, "Abc", "def", [80, 90]
+2, "lmn", "qwert", [93, 74]
 3, "Inspector", "Talpade", [69,69]
